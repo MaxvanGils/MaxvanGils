@@ -21,13 +21,5 @@ While the reposities of some of my major projects are currently private, I have 
 ![](https://nirzak-streak-stats.vercel.app/?user=MaxvanGils&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxvanGils&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=MaxvanGils&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MaxvanGils&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=MaxvanGils&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
